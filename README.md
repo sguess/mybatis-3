@@ -1,3 +1,5 @@
+GitHub Address:https://github.com/sguess/mybatis-3.git
+
 MyBatis SQL Mapper Framework for Java
 =====================================
 
